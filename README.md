@@ -9,6 +9,7 @@ EN:
 A LLM-orchestrated multi-agent platform combining three complementary pricing techniques: vector RAG over 800,000 scraped Amazon products, a handcrafted fine-tuned Llama 3.2 model deployed on a cloud GPU, and a deep residual neural network. Seven specialized agents collaborate fully autonomously — from RSS feed scraping to crafting and delivering push notifications — with zero human intervention.
 ---
 
+[![Watch demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1QSqMN84a_K5q2_rm4gG329paRBnc-nXd/view)
 
 <p align="center">
   <img src="images/demo_screenshot.png" width="100%" />
